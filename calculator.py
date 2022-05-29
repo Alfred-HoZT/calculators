@@ -1,3 +1,5 @@
+# program gives a simple calculator with gui
+
 import math
 from tkinter import *
 
